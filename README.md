@@ -1,5 +1,7 @@
 ## Simple file server in GO
 
+Replacement for `python -m http. server 3000` in go.
+
 ### Installation
 
 ```
