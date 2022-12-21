@@ -3,7 +3,7 @@
 ### Installation
 
 ```
-go get github.com/Gonzih/simpleton
+go install github.com/Gonzih/simpleton@latest
 ```
 
 ### Usage
